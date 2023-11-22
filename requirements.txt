@@ -1,5 +1,7 @@
-torch
 Pillow
 matplotlib
+torch
 torchvision
+torchaudio
 numpy
+tqdm
